@@ -1,4 +1,4 @@
-package ru.romanov.practice.algorithms.arrays.hackerrank;
+package ru.romanov.practice.algorithms.arrays.hackerrank.easy;
 
 import java.util.stream.Stream;
 
